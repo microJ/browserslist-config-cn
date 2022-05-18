@@ -1,0 +1,24 @@
+# Browserslist will choose query according to BROWSERSLIST_ENV or NODE_ENV variables
+# Default is production
+[production]
+
+# Desktop queries
+> 0.1% in CN
+Firefox ESR and last 3 years
+
+# Not dead
+not dead
+
+# Not Mobile
+not ios >= 0
+not android >= 0
+not ChromeAndroid >= 0
+not FirefoxAndroid >= 0
+not op_mob >= 0
+not OperaMini all
+not and_qq >= 0
+not Samsung >= 0
+not UCAndroid >= 0
+not BlackBerry >= 0
+not ie_mob >= 0
+not kaios >= 0

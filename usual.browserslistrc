@@ -1,0 +1,11 @@
+# Browserslist will choose query according to BROWSERSLIST_ENV or NODE_ENV variables
+# Default is production
+[production]
+
+# Queries
+> 0.1% in CN
+Firefox ESR and last 5 years
+last 1 ie major versions
+
+# Not dead
+not dead
