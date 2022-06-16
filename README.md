@@ -1,4 +1,4 @@
-# browserslist-config
+# browserslist-config-cn
 
 A common browser list config for Chinese Desktop/Mobile using https://github.com/browserslist/browserslist.
 
